@@ -81,6 +81,8 @@ Live app:
     - GitHub was used to store the project after pushing
 - <a href="https://dashboard.heroku.com/" title="Link to Heroku" rel="nofollow">Heroku</a>
     - To deploy project.
+- <a href="https://www.figma.com/" title="Link to figma" rel="nofollow">Figma</a> 
+    - To make the design for the project
 - <a href="https://lucid.app/" title="Link to lucid" rel="nofollow">Lucid</a> 
     - To make flowcharts for the project
 - <a href="https://docs.python.org/3/library/os.html" title="Link to python os" rel="nofollow">Os libary</a> 
@@ -91,6 +93,11 @@ Live app:
 [Back to top](#table-of-content)
 
 # Credit
+
+## Images
+<a href="https://favpng.com/png_user/Infinite_Flare](https://favpng.com/png_view/outdoor-exercise-equipment-muscle-vector-graphics-jump-ropes-human-body-muscular-system-png/apGj6G7s" title="Link to favpng" rel="nofollow">Human anatomy</a>
+
+[Back to top](#table-of-content)
 
 ## Deployment description
 Huge thank you to <a href="https://github.com/Delboy/Fruit-Hunter">Delboy</a> with the description on how the deployment went. 
